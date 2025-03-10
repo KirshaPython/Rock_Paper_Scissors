@@ -1,6 +1,6 @@
-Toto je jednoduchá webová hra "Rock Paper Scissors" (Kameň, papier, nožnice), ktorú si môžeš zahrať proti počítaču.
+This is a simple web game 'Rock Paper Scissors' that you can play against the computer.
 
-Klikni na jednu z možností: Kameň, Papier alebo Nožnice.
-Počítač náhodne vyberie svoju možnosť.
-Výsledok sa zobrazí na obrazovke.
-Môžeš kliknúť na "Play Again" pre ďalšiu hru.
+Click on one of the options: Rock, Paper, or Scissors.
+The computer will randomly select its choice.
+The result will be displayed on the screen.
+You can click on 'Play Again' for another round.
